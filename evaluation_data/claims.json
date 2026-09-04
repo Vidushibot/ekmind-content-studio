@@ -1,0 +1,5 @@
+{
+  "claim_set_version": "starter-1",
+  "description": "Human-adjudicated expected claims for bounded retrieval and faithfulness evaluation.",
+  "claims": []
+}

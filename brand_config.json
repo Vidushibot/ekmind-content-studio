@@ -1,0 +1,9 @@
+{
+  "company_name": "Ekmind",
+  "logo_path": null,
+  "template_path": "../HR Transformation Mythbuster.pptx",
+  "presentation_style": "hr_mythbuster",
+  "intro_video_path": null,
+  "outro_video_path": null,
+  "default_video_aspect_ratio": "16:9"
+}

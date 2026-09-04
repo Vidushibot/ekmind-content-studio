@@ -1,0 +1,11 @@
+{
+  "TITLE": 0,
+  "TITLE_BODY": 1,
+  "TWO_COLUMN": 3,
+  "PROCESS": 1,
+  "KEY_MESSAGE": 1,
+  "IMAGE_TEXT": 1,
+  "QUOTE": 1,
+  "CLOSING": 0,
+  "fallback": 1
+}

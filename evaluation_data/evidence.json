@@ -1,0 +1,5 @@
+{
+  "corpus_version": "starter-1",
+  "description": "Human-reviewable controlled evidence. Add approved passages and map them to claim IDs before scoring live retrieval.",
+  "records": []
+}

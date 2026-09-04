@@ -1,0 +1,28 @@
+[theme]
+base = "light"
+primaryColor = "#17284A"
+backgroundColor = "#FAF8F2"
+secondaryBackgroundColor = "#FFF3CF"
+textColor = "#0C1830"
+linkColor = "#9A6500"
+borderColor = "#E4D3A3"
+baseRadius = "12px"
+buttonRadius = "10px"
+showWidgetBorder = true
+headingFont = "Arial Black"
+font = "Arial"
+headingFontSizes = ["34px", "27px", "22px", "18px", "15px", "13px"]
+headingFontWeights = [700, 700, 700, 700, 700, 700]
+
+[theme.sidebar]
+backgroundColor = "#0C1830"
+secondaryBackgroundColor = "#17284A"
+textColor = "#FFF8E7"
+primaryColor = "#F4B21A"
+borderColor = "#2A3C62"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

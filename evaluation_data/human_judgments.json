@@ -1,0 +1,6 @@
+{
+  "calibration_version": "starter-1",
+  "instructions": "Two reviewers should label examples independently, adjudicate disagreements, then populate human_label before comparing the automated judge.",
+  "allowed_labels": ["SUPPORTED", "INSUFFICIENT_EVIDENCE", "UNSUPPORTED", "CONTRADICTED"],
+  "judgments": []
+}

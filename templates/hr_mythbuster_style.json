@@ -1,0 +1,32 @@
+{
+  "name": "HR Transformation Mythbuster",
+  "source": "../HR Transformation Mythbuster.pptx",
+  "slide_size_inches": [10.0, 5.625],
+  "mode": "reference-rebuild",
+  "typography": {
+    "display": "Arial Black",
+    "body": "Arial",
+    "eyebrow": "Arial Black"
+  },
+  "palette": {
+    "ink": "#0C1830",
+    "navy": "#17284A",
+    "gold": "#F4B21A",
+    "coral": "#E4573D",
+    "ivory": "#FAF8F2",
+    "pale_gold": "#FFF7E0"
+  },
+  "design_language": [
+    "Short uppercase editorial headings",
+    "Oversized numbers and decisive statements",
+    "High-contrast navy, ink, and gold fields",
+    "Myth-to-reality narrative progression",
+    "Open typography with restrained native diagrams",
+    "One dominant visual idea per slide"
+  ],
+  "content_limits": {
+    "title_words": 8,
+    "points_per_slide": 3,
+    "words_per_point": 12
+  }
+}
